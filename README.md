@@ -1,16 +1,15 @@
-### Hi there 👋
+## <div align="center"> Hi, there I am Jesus Ballesteros</div>
 
-<!--
-**jesusb25/jesusb25** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+* I am a rising junior at Stanford University.
+* I am studying Computer Science, with a concentration in artificial intelligence.
+* I am currently working as a software engineering intern at Liberty Mutual.
 
-Here are some ideas to get you started:
+## Projects
+* [College Matriculation Modules] - A website for helping high school students learn about the college application process!
+* [To do Board] - A to do board I made using while learning HTML, CSS and JavaScript
+* [Generic Social Media] -  A full stack application I made with a RESTful API, MongoDB database and vanilla JS
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=jesusb25&theme=dark" alt="My Stats"/>
+</p>
