@@ -1,4 +1,4 @@
-## <div align="center"> Hi, there I am Jesus Ballesteros</div>
+# <div align="center"> Hi, there I am Jesus Ballesteros</div>
 
 ## About Me
 * I am a rising junior at Stanford University.
