@@ -6,6 +6,6 @@
 * I am currently working as a software engineering intern at Liberty Mutual.
 
 ## Projects
+* [PDF to MP3](https://jesusb25.github.io/PDF-to-MP3/) - A full stack project that extracts text from PDF files and converts them to MP3 files for easy listening
 * [Resume](https://jesusb25.github.io/html-resume/) - A html static version of my resume
-* [College Matriculation Modules](https://jesusb25.github.io/CollegeTracker/) - A website for helping high school students learn about the college application process!
-* [To do Board](https://jesusb25.github.io/Project2_ToDoBoard/) - A to do board I made using while learning HTML, CSS and JavaScript
+* [College Matriculation Modules](https://jesusb25.github.io/CollegeTracker/) - A website for helping high school students learn about the college application process
