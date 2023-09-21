@@ -1,8 +1,8 @@
 # <div align="center"> Hi, there I am Jesus Ballesteros</div>
 
 ## About Me
-* I am a rising junior at Stanford University.
-* I am studying Computer Science, with a concentration in artificial intelligence.
+* I am a junior at Stanford University.
+* I am studying Computer Science, with a concentration in Human-Computer Interaction
 * I am currently working as a software engineering intern at Liberty Mutual.
 
 ## Projects
