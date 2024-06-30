@@ -1,9 +1,9 @@
 # <div align="center"> Hi, there I am Jesus Ballesteros</div>
 
 ## About Me
-* I am a junior at Stanford University.
-* I am studying Computer Science, with a concentration in Human-Computer Interaction
-* I am an incoming intern at LinkedIn Corporation!
+* I am a senior at Stanford University.
+* I am studying Computer Science, with a concentration in Artificial Intelligence.
+* I am a Software Engineering intern at LinkedIn, working on advertising interfaces for customers.
 
 ## Projects
 * [PDF to Podcast](https://jesusb25.github.io/PDF-to-MP3/) - A full-stack project that extracts text from PDF files and converts them to MP3 files for easy listening
