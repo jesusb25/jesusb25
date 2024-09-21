@@ -3,7 +3,7 @@
 ## About Me
 * I am a senior at Stanford University.
 * I am studying Computer Science, with a concentration in Artificial Intelligence.
-* I am a Software Engineering intern at LinkedIn, working on B2B customer advertising services.
+* I am a previous Software Engineering intern at LinkedIn, working on B2B customer advertising services and Liberty Mutual working on backend API call routing.
 
 ## Projects
 * [PDF to Podcast](https://jesusb25.github.io/PDF-to-MP3/) - A full-stack project that extracts text from PDF files and converts them to MP3 files for easy listening
