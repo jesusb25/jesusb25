@@ -17,10 +17,11 @@
 I'm a software engineer at **Meta**, building machine learning for ads serving at scale. I graduated from **Stanford University** (B.S. Computer Science, AI concentration, 2025).
 
 Previously interned at:
+
 - **LinkedIn** — B2B customer advertising services
 - **Liberty Mutual** — Backend API call routing infrastructure
 
-I'm passionate about AI systems, distributed infrastructure, and building products that reach millions of users.
+I'm passionate about building systems at scale that make everyday life easier — from reducing friction in user experiences to engineering infrastructure that quietly powers millions of people.
 
 ---
 
