@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a software engineer at **Meta**, building systems at scale. I graduated from **Stanford University** (B.S. Computer Science, AI concentration, 2025).
+I'm a software engineer at **Meta**, building machine learning for ads serving at scale. I graduated from **Stanford University** (B.S. Computer Science, AI concentration, 2025).
 
 Previously interned at:
 - **LinkedIn** — B2B customer advertising services
