@@ -18,6 +18,7 @@ I'm a software engineer at **Palantir**, building backend products for data plat
 
 Previously at:
 
+- **Meta** — Ads Machine Learning Infrastructure
 - **LinkedIn** — Advertising Insights Platform
 - **Liberty Mutual** — Call Routing Infrastructure
 
