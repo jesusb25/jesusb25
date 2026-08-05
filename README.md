@@ -14,7 +14,7 @@
 
 ## About Me
 
-I'm a software engineer at **Meta**, building machine learning for ads serving at scale. I graduated from **Stanford University** (B.S. Computer Science, AI concentration, 2025).
+I'm a software engineer at **Palantir**, building backend products for data platforms. I graduated from **Stanford University** (B.S. Computer Science, AI concentration, 2025).
 
 Previously at:
 
