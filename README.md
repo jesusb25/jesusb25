@@ -2,7 +2,7 @@
 
 # Jesus Ballesteros
 
-**Software Engineer @ Meta**
+**Software Engineer @ Palantir**
 
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white)](https://my-portfolio-azfmp8nfi-jesus-ballesteros-projects.vercel.app)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ballesterosjesus)
