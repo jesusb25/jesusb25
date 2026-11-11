@@ -21,7 +21,7 @@ Previously at:
 - **LinkedIn** — Advertising Insights Platform
 - **Liberty Mutual** — Call Routing Infrastructure
 
-I'm passionate about building systems at scale that make everyday life easier — from reducing friction in user experiences to engineering infrastructure that quietly powers millions of people.
+I am passionate about building systems at scale that make everyday life easier and aim to make life easier for end users.
 
 ---
 
